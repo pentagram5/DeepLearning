@@ -1,2 +1,2 @@
 # DeepLearning
-DeepLearning_jupyter,colab
+DeepLearning_for_basic concept by jupyter,colab
